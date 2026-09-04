@@ -64,6 +64,6 @@ Geometric Lib — это библиотека на Python для работы с
 
 ## История изменения проекта
 
-* d08b24f Add triangle.py and fix perimeter in rectangle.py
-* 8a12c3e Add rectangle.py
+* 0687d09 Add triangle.py and fix perimeter in rectangle.py
+* da2249b Add rectangle.py
 * 8ba9aeb L-03: Circle and square added
